@@ -1,0 +1,19 @@
+{
+  "name": "magnumdental.ru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html dist/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huksley/magnumdental.ru.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huksley/magnumdental.ru/issues"
+  },
+  "homepage": "https://github.com/huksley/magnumdental.ru#readme"
+}
